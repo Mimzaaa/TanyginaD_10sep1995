@@ -1,0 +1,1 @@
+{"uuid": "62d03ad8-2a0b-41e8-a41a-da1d84b08e3d", "children": ["97763985-454a-47eb-b8c8-5c8d9eaab8f0"], "befores": [{"name": "cart_page", "status": "passed", "steps": [{"name": "URL для API запросов", "status": "passed", "start": 1726133117711, "stop": 1726133117711}], "start": 1726133117711, "stop": 1726133117711}], "start": 1726133117711, "stop": 1726133118410}
